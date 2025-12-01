@@ -8,7 +8,7 @@ Course: CSCI-331 DATABASE SYSTEMS
 JUST TO CLARIFY FOR FUTURE, The next project will have the files Project3 DDI(which stands for Database design and implementation) as
 a prefix for the files. We didn't do that here because we found out both assignments are called Project 3 on the late side of things. 
 
-Video link and other information can be found in the bottom: 
+Video link and other information can be found in the bottom. Out todolist is in timemanagement. Oru bak file and metadata with modifications are also provided: 
 
 
 ---------------------------------------------------------------
