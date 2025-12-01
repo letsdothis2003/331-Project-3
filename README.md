@@ -35,4 +35,4 @@ This is a presentation  for CSCI 331 which goes over how we improved the databas
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Walkthrough/Video links:
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Our video presentation can be found here:
+Our video presentation can be found here: https://www.youtube.com/watch?v=7jq9WUkIVzk
